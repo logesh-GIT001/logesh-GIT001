@@ -29,7 +29,7 @@ class SecurityResearcher:
 
 🎯 **Mission:** Making the internet a safer place, one vulnerability at a time
 
-📫 **Contact:** your-email@example.com
+📫 **Contact:** lokiuniverse09@gmail.com
 
 <br clear="right"/>
 
