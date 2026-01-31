@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher+%F0%9F%94%90;Bug+Hunter+%F0%9F%90%9B;Malware+Analyst+%F0%9F%A6%A0;Penetration+Tester+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Analyst+%F0%9F%94%90;SOC+Analyst+%F0%9F%96%A5%EF%B8%8F;Ethical+Hacker+%F0%9F%90%9B;Security+Researcher+%F0%9F%94%8D;Terminal+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br>
@@ -13,21 +13,25 @@
 ### 🛡️ About Me
 
 ```python
-class SecurityResearcher:
+class CybersecurityAnalyst:
     def __init__(self):
         self.name = "Logeshwaran S"
         self.location = "India 🇮🇳"
-        self.role = "Cybersecurity Specialist"
-        self.focus = ["Bug Bounty", "Malware Analysis", 
-                      "Forensics", "Penetration Testing"]
+        self.role = "Cybersecurity Analyst"
+        self.focus = ["SOC Operations", "Threat Detection", 
+                      "Incident Response", "Security Monitoring"]
+        self.side_quests = ["Bug Bounty", "Ethical Hacking"]
         
     def current_mission(self):
-        return "Hunting bugs and securing the digital world 🌐"
+        return "Defending networks and hunting threats 🎯"
+    
+    def favorite_place(self):
+        return "The Terminal 💻"
 ```
 
-🔍 **Specialization:** Vulnerability Research | Reverse Engineering | Social Engineering
+🔍 **Primary Focus:** SOC Analysis | Threat Hunting | Incident Response
 
-🎯 **Mission:** Making the internet a safer place, one vulnerability at a time
+🎯 **Side Missions:** Bug Bounty Hunting | Ethical Hacking | Security Research
 
 📫 **Contact:** lokiuniverse09@gmail.com
 
@@ -35,55 +39,66 @@ class SecurityResearcher:
 
 ---
 
-### 🚀 Current Focus
+### 🚀 Current Learning Path
 
-```yaml
-Learning:
-  - Mobile Application Security Testing
-  - Web3 Security & Smart Contract Auditing
-  - Advanced Malware Reverse Engineering
-  - Cloud Security (AWS/Azure)
+```bash
+┌──(loki㉿soc-analyst)-[~/learning]
+└─$ cat current_focus.txt
 
-Working On:
-  - Building custom security tools
-  - Contributing to open-source security projects
-  - Writing security research articles
-  - Participating in bug bounty programs
+📚 SOC L1 Responsibilities
+  ├─ Security Event Monitoring
+  ├─ Alert Triage & Investigation
+  ├─ Log Analysis & Correlation
+  └─ Security Tool Management
+
+🔥 Incident Response
+  ├─ IR Frameworks & Playbooks
+  ├─ Malware Analysis Basics
+  ├─ Digital Forensics
+  └─ Post-Incident Reporting
+
+🎯 Threat Hunting
+  ├─ IOC & IOA Detection
+  ├─ Threat Intelligence Analysis
+  ├─ MITRE ATT&CK Framework
+  └─ Adversary Tactics & Techniques
+
+🛠️ SOC Workflows & Tools
+  ├─ SIEM (Splunk, ELK Stack)
+  ├─ EDR/XDR Solutions
+  ├─ SOAR Platforms
+  └─ Ticketing Systems
 ```
 
 ---
 
-### ⚔️ Arsenal & Tools
+### ⚔️ Technical Arsenal
 
 <div align="center">
 
-#### 🔴 Penetration Testing & Exploitation
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-00D9FF?style=for-the-badge&logo=parrot-security&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-
-#### 🔵 Network & Traffic Analysis
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-
-#### 🟢 Programming & Scripting
+#### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🟡 Operating Systems & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+#### 🔴 Security Operations & Analysis
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
 
-#### 🟣 DevOps & Utilities
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🔵 Penetration Testing (Occasional)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+#### 🟢 Operating Systems & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+#### 🟣 Tools & Utilities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -116,12 +131,24 @@ Working On:
 
 ### 📝 Latest Security Research
 
-<!-- BLOG-POST-LIST:START -->
-- 🔐 Advanced techniques in malware analysis
-- 🐛 Bug bounty methodology and approach
-- 🛡️ Web application security testing
-- 🔍 Forensics investigation procedures
-<!-- BLOG-POST-LIST:END -->
+```terminal
+┌──(loki㉿research)-[~/sec-notes]
+└─$ ls -la recent_findings/
+
+-rw-r--r-- 1 loki soc  4.2K Jan 30 14:23 soc_alert_analysis_techniques.md
+-rw-r--r-- 1 loki soc  3.8K Jan 28 09:15 incident_response_playbooks.md
+-rw-r--r-- 1 loki soc  5.1K Jan 25 16:42 threat_hunting_with_osquery.md
+-rw-r--r-- 1 loki soc  2.9K Jan 22 11:30 analyzing_network_traffic_anomalies.md
+-rw-r--r-- 1 loki soc  4.5K Jan 18 13:07 siem_correlation_rules_guide.md
+-rw-r--r-- 1 loki soc  3.3K Jan 15 10:20 phishing_detection_automation.md
+
+┌──(loki㉿research)-[~/sec-notes]
+└─$ cat status.log
+[+] Documenting SOC workflows and best practices
+[+] Building detection rules and automation scripts
+[+] Contributing to open-source security tools
+[+] Sharing knowledge through research articles
+```
 
 ---
 
@@ -132,18 +159,7 @@ Working On:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Loki_1718)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeshwaran-s-loki/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logesh-GIT001)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokiuniverse@gmail.com)
-
-</div>
-
----
-
-### 💰 Support My Work
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokiuniverse09@gmail.com)
 
 </div>
 
@@ -161,7 +177,19 @@ Working On:
   
 ### 💭 Security Quote
   
-*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
+```bash
+┌──(root㉿security)-[~]
+└─$ echo "The quieter you become, the more you can hear." | cowsay
+ ___________________________________________
+< The quieter you become, the more you can >
+< hear. - Kali Linux Motto               >
+ -------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 </div>
 
