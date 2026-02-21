@@ -18,7 +18,7 @@ class CybersecurityAnalyst:
         self.name = "Logeshwaran S"
         self.location = "India 🇮🇳"
         self.role = "Cybersecurity Analyst"
-        self.focus = ["SOC Operations", "Threat Detection", 
+        self.focus = ["Security Engineer","SOC Operations", "Threat Detection", 
                       "Incident Response", "Security Monitoring"]
         self.side_quests = ["Bug Bounty", "Ethical Hacking"]
         
@@ -29,7 +29,7 @@ class CybersecurityAnalyst:
         return "The Terminal 💻"
 ```
 
-🔍 **Primary Focus:** SOC Analysis | Threat Hunting | Incident Response
+🔍 **Primary Focus:** SOC Analysis | Threat Hunting | Security Engineer
 
 🎯 **Side Missions:** Bug Bounty Hunting | Ethical Hacking | Security Research
 
@@ -119,38 +119,6 @@ class CybersecurityAnalyst:
 
 ---
 
-### 🏆 Achievements & Certifications
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=logesh-GIT001&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📝 Latest Security Research
-
-```terminal
-┌──(loki㉿research)-[~/sec-notes]
-└─$ ls -la recent_findings/
-
--rw-r--r-- 1 loki soc  4.2K Jan 30 14:23 soc_alert_analysis_techniques.md
--rw-r--r-- 1 loki soc  3.8K Jan 28 09:15 incident_response_playbooks.md
--rw-r--r-- 1 loki soc  5.1K Jan 25 16:42 threat_hunting_with_osquery.md
--rw-r--r-- 1 loki soc  2.9K Jan 22 11:30 analyzing_network_traffic_anomalies.md
--rw-r--r-- 1 loki soc  4.5K Jan 18 13:07 siem_correlation_rules_guide.md
--rw-r--r-- 1 loki soc  3.3K Jan 15 10:20 phishing_detection_automation.md
-
-┌──(loki㉿research)-[~/sec-notes]
-└─$ cat status.log
-[+] Documenting SOC workflows and best practices
-[+] Building detection rules and automation scripts
-[+] Contributing to open-source security tools
-[+] Sharing knowledge through research articles
-```
-
----
 
 ### 🤝 Connect With Me
 
