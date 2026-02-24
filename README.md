@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060a10,50:0b1929,100:060a10&height=230&section=header&text=LOGESHWARAN%20S&fontSize=54&fontColor=e0f4ff&animation=fadeIn&fontAlignY=44&desc=Security%20Analyst%20%E2%80%94%20I%20break%20things%20to%20understand%20them%2C%20then%20build%20defenses%20that%20last.&descSize=12&descColor=7dd3fc&descAlignY=64" width="100%"/>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=2500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=55&lines=logesh%40sec-ops+~+%E2%9D%AF+cat+roles.txt;%5B+SOC+Analyst+%5D+%E2%9C%93++%5B+VAPT+Researcher+%5D+%E2%9C%93++%5B+Security+Engineer+%5D+%E2%9F%B3+Growing" />
 
@@ -38,7 +34,7 @@ bug_bounty :
   ✓  CERT-In (Government)
 
 open_to    : SOC · VAPT · Security Engineer roles
-contact    : logeshwarans2004@gmail.com
+contact    : logesh.spy@gmail.com
 ```
 
 <br clear="right"/>
@@ -138,7 +134,7 @@ contact    : logeshwarans2004@gmail.com
 <a href="https://logesh-git001.github.io/loki/index.html">
   <img src="https://img.shields.io/badge/Portfolio-0b1929?style=for-the-badge&logo=githubpages&logoColor=38BDF8"/>
 </a>&nbsp;&nbsp;
-<a href="mailto:logeshwarans2004@gmail.com">
+<a href="mailto:logesh.spy@@gmail.com">
   <img src="https://img.shields.io/badge/Email-0b1929?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
