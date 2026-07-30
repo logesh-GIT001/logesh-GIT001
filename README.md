@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<!-- DYNAMIC TYPING BANNER (Height set to 140px so all 5 lines are 100% visible!) -->
+<!-- DYNAMIC TYPING BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=140&lines=%E2%9D%AF+Initializing+Cyber+Defense+Matrix...;%E2%9D%AF+Logeshwaran+S+%2F%2F+Security+Analyst+%26+Ethical+Hacker;%E2%9D%AF+Specializing+in+SOC+Ops%2C+VAPT+%26+Threat+Hunting;%E2%9D%AF+Acknowledged+by+Google+Android+VRP%2C+NVIDIA+PSIRT+%26+CERT-In;%E2%9D%AF+%22The+quieter+you+become%2C+the+more+you+can+hear.%22" alt="Typing Intro Banner" />
 
 <br/>
@@ -39,6 +39,24 @@
 <div align="center">
 
 <img src="./whoami.svg" width="100%" alt="Whoami Shell Card"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████ LIVE CYBER HACKING ANIMATION SIMULATOR ██████████ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### <g font-family="monospace">`❯ ./exploit_simulator --live-execution`</g>
+
+<div align="center">
+
+<img src="./hacking.svg" width="100%" alt="Cyber Hacking Matrix Simulator"/>
 
 </div>
 
@@ -97,33 +115,33 @@
     <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #00f0ff; border-radius:8px; padding:12px;">
       <h4><font color="#00f0ff">💻 OS &amp; PLATFORM</font></h4>
       <p>
-        ![Kali Linux](https://img.shields.io/badge/Kali_Linux-030712?style=flat-square&logo=kali-linux&logoColor=00f0ff)<br/>
-        ![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-030712?style=flat-square&logo=ubuntu&logoColor=00f0ff)<br/>
-        ![macOS](https://img.shields.io/badge/macOS-030712?style=flat-square&logo=apple&logoColor=00f0ff)
+        <img src="https://img.shields.io/badge/Kali_Linux-030712?style=flat-square&logo=kali-linux&logoColor=00f0ff"/><br/><br/>
+        <img src="https://img.shields.io/badge/Ubuntu_Linux-030712?style=flat-square&logo=ubuntu&logoColor=00f0ff"/><br/><br/>
+        <img src="https://img.shields.io/badge/macOS-030712?style=flat-square&logo=apple&logoColor=00f0ff"/>
       </p>
     </td>
     <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #00ff9d; border-radius:8px; padding:12px;">
       <h4><font color="#00ff9d">🐚 SHELL &amp; CLI</font></h4>
       <p>
-        ![Zsh](https://img.shields.io/badge/Zsh_Shell-030712?style=flat-square&logo=gnu-bash&logoColor=00ff9d)<br/>
-        ![Tmux](https://img.shields.io/badge/Tmux-030712?style=flat-square&logo=tmux&logoColor=00ff9d)<br/>
-        ![Neovim](https://img.shields.io/badge/Neovim-030712?style=flat-square&logo=neovim&logoColor=00ff9d)
+        <img src="https://img.shields.io/badge/Zsh_Shell-030712?style=flat-square&logo=gnu-bash&logoColor=00ff9d"/><br/><br/>
+        <img src="https://img.shields.io/badge/Tmux-030712?style=flat-square&logo=tmux&logoColor=00ff9d"/><br/><br/>
+        <img src="https://img.shields.io/badge/Neovim-030712?style=flat-square&logo=neovim&logoColor=00ff9d"/>
       </p>
     </td>
     <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #a855f7; border-radius:8px; padding:12px;">
       <h4><font color="#a855f7">🛠️ PRIMARY TOOLS</font></h4>
       <p>
-        ![Burp Suite](https://img.shields.io/badge/Burp_Suite-030712?style=flat-square&logo=burp-suite&logoColor=a855f7)<br/>
-        ![Wireshark](https://img.shields.io/badge/Wireshark-030712?style=flat-square&logo=wireshark&logoColor=a855f7)<br/>
-        ![Splunk](https://img.shields.io/badge/Splunk_SIEM-030712?style=flat-square&logo=splunk&logoColor=a855f7)
+        <img src="https://img.shields.io/badge/Burp_Suite-030712?style=flat-square&logo=burp-suite&logoColor=a855f7"/><br/><br/>
+        <img src="https://img.shields.io/badge/Wireshark-030712?style=flat-square&logo=wireshark&logoColor=a855f7"/><br/><br/>
+        <img src="https://img.shields.io/badge/Splunk_SIEM-030712?style=flat-square&logo=splunk&logoColor=a855f7"/>
       </p>
     </td>
     <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #f59e0b; border-radius:8px; padding:12px;">
       <h4><font color="#f59e0b">☁️ VIRTUAL LAB</font></h4>
       <p>
-        ![Docker](https://img.shields.io/badge/Docker-030712?style=flat-square&logo=docker&logoColor=f59e0b)<br/>
-        ![VMware](https://img.shields.io/badge/VMware-030712?style=flat-square&logo=vmware&logoColor=f59e0b)<br/>
-        ![AWS](https://img.shields.io/badge/AWS_Lab-030712?style=flat-square&logo=amazon-aws&logoColor=f59e0b)
+        <img src="https://img.shields.io/badge/Docker-030712?style=flat-square&logo=docker&logoColor=f59e0b"/><br/><br/>
+        <img src="https://img.shields.io/badge/VMware-030712?style=flat-square&logo=vmware&logoColor=f59e0b"/><br/><br/>
+        <img src="https://img.shields.io/badge/AWS_Lab-030712?style=flat-square&logo=amazon-aws&logoColor=f59e0b"/>
       </p>
     </td>
   </tr>
@@ -188,41 +206,41 @@
 <td width="25%" align="center" valign="top">
 
 #### 🛡️ SOC &amp; BLUE TEAM
-![Splunk](https://img.shields.io/badge/Splunk-0b1329?style=for-the-badge&logo=splunk&logoColor=00f0ff)
-![Microsoft Sentinel](https://img.shields.io/badge/Sentinel-0b1329?style=for-the-badge&logo=microsoftazure&logoColor=00f0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-0b1329?style=for-the-badge&logo=wireshark&logoColor=00f0ff)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-0b1329?style=for-the-badge&logo=protonmail&logoColor=00f0ff)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0b1329?style=for-the-badge&logo=tryhackme&logoColor=00ff9d)
+<img src="https://img.shields.io/badge/Splunk-0b1329?style=for-the-badge&logo=splunk&logoColor=00f0ff"/><br/><br/>
+<img src="https://img.shields.io/badge/Sentinel-0b1329?style=for-the-badge&logo=microsoftazure&logoColor=00f0ff"/><br/><br/>
+<img src="https://img.shields.io/badge/Wireshark-0b1329?style=for-the-badge&logo=wireshark&logoColor=00f0ff"/><br/><br/>
+<img src="https://img.shields.io/badge/LetsDefend-0b1329?style=for-the-badge&logo=protonmail&logoColor=00f0ff"/><br/><br/>
+<img src="https://img.shields.io/badge/TryHackMe-0b1329?style=for-the-badge&logo=tryhackme&logoColor=00ff9d"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 #### ⚔️ VAPT &amp; RED TEAM
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0b1329?style=for-the-badge&logo=burp-suite&logoColor=00ff9d)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0b1329?style=for-the-badge&logo=kali-linux&logoColor=00ff9d)
-![Metasploit](https://img.shields.io/badge/Metasploit-0b1329?style=for-the-badge&logo=metasploit&logoColor=00ff9d)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-0b1329?style=for-the-badge&logo=owasp&logoColor=00ff9d)
-![Nmap](https://img.shields.io/badge/Nmap-0b1329?style=for-the-badge&logo=nmap&logoColor=00ff9d)
+<img src="https://img.shields.io/badge/Burp_Suite-0b1329?style=for-the-badge&logo=burp-suite&logoColor=00ff9d"/><br/><br/>
+<img src="https://img.shields.io/badge/Kali_Linux-0b1329?style=for-the-badge&logo=kali-linux&logoColor=00ff9d"/><br/><br/>
+<img src="https://img.shields.io/badge/Metasploit-0b1329?style=for-the-badge&logo=metasploit&logoColor=00ff9d"/><br/><br/>
+<img src="https://img.shields.io/badge/OWASP-0b1329?style=for-the-badge&logo=owasp&logoColor=00ff9d"/><br/><br/>
+<img src="https://img.shields.io/badge/Nmap-0b1329?style=for-the-badge&logo=nmap&logoColor=00ff9d"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 #### ⚙️ SEC ENGINEERING
-![Python](https://img.shields.io/badge/Python-0b1329?style=for-the-badge&logo=python&logoColor=a855f7)
-![Bash](https://img.shields.io/badge/Bash-0b1329?style=for-the-badge&logo=gnu-bash&logoColor=a855f7)
-![Linux](https://img.shields.io/badge/Linux-0b1329?style=for-the-badge&logo=linux&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-0b1329?style=for-the-badge&logo=docker&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-0b1329?style=for-the-badge&logo=git&logoColor=a855f7)
+<img src="https://img.shields.io/badge/Python-0b1329?style=for-the-badge&logo=python&logoColor=a855f7"/><br/><br/>
+<img src="https://img.shields.io/badge/Bash-0b1329?style=for-the-badge&logo=gnu-bash&logoColor=a855f7"/><br/><br/>
+<img src="https://img.shields.io/badge/Linux-0b1329?style=for-the-badge&logo=linux&logoColor=a855f7"/><br/><br/>
+<img src="https://img.shields.io/badge/Docker-0b1329?style=for-the-badge&logo=docker&logoColor=a855f7"/><br/><br/>
+<img src="https://img.shields.io/badge/Git-0b1329?style=for-the-badge&logo=git&logoColor=a855f7"/>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 #### 🌐 THREAT INTEL
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0b1329?style=for-the-badge&logo=target&logoColor=f59e0b)
-![IOC Analysis](https://img.shields.io/badge/IOC_Analysis-0b1329?style=for-the-badge&logo=hackthebox&logoColor=f59e0b)
-![CVE Research](https://img.shields.io/badge/CVE_Research-0b1329?style=for-the-badge&logo=googlecloud&logoColor=f59e0b)
-![YARA](https://img.shields.io/badge/YARA_Rules-0b1329?style=for-the-badge&logo=moleculer&logoColor=f59e0b)
-![OSINT](https://img.shields.io/badge/OSINT-0b1329?style=for-the-badge&logo=signal&logoColor=f59e0b)
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-0b1329?style=for-the-badge&logo=target&logoColor=f59e0b"/><br/><br/>
+<img src="https://img.shields.io/badge/IOC_Analysis-0b1329?style=for-the-badge&logo=hackthebox&logoColor=f59e0b"/><br/><br/>
+<img src="https://img.shields.io/badge/CVE_Research-0b1329?style=for-the-badge&logo=googlecloud&logoColor=f59e0b"/><br/><br/>
+<img src="https://img.shields.io/badge/YARA-0b1329?style=for-the-badge&logo=moleculer&logoColor=f59e0b"/><br/><br/>
+<img src="https://img.shields.io/badge/OSINT-0b1329?style=for-the-badge&logo=signal&logoColor=f59e0b"/>
 
 </td>
 </tr>
