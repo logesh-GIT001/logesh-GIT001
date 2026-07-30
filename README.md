@@ -4,12 +4,12 @@
 <!-- ███████████████ CYBER HUD ANIMATED HEADER ███████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./header.svg" width="100%" alt="Logeshwaran S - Cyber HUD Banner"/>
+<img src="./header.svg" width="100%" alt="Logeshwaran S - Security Research Header"/>
 
 <br/><br/>
 
-<!-- DYNAMIC TYPING BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=80&lines=%E2%9D%AF+Initializing+Cyber+Defense+Matrix...;%E2%9D%AF+Logeshwaran+S+%2F%2F+Security+Analyst+%26+Ethical+Hacker;%E2%9D%AF+Specializing+in+SOC+Ops%2C+VAPT+%26+Threat+Hunting;%E2%9D%AF+Honored+in+Google+Android+VRP%2C+NVIDIA+PSIRT+%26+CERT-In;%E2%9D%AF+%22The+quieter+you+become%2C+the+more+you+can+hear.%22" alt="Typing Intro Banner" />
+<!-- DYNAMIC TYPING BANNER (Height set to 140px so all 5 lines are 100% visible!) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=140&lines=%E2%9D%AF+Initializing+Cyber+Defense+Matrix...;%E2%9D%AF+Logeshwaran+S+%2F%2F+Security+Analyst+%26+Ethical+Hacker;%E2%9D%AF+Specializing+in+SOC+Ops%2C+VAPT+%26+Threat+Hunting;%E2%9D%AF+Acknowledged+by+Google+Android+VRP%2C+NVIDIA+PSIRT+%26+CERT-In;%E2%9D%AF+%22The+quieter+you+become%2C+the+more+you+can+hear.%22" alt="Typing Intro Banner" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 <!-- ██████████████ SYSTEM TERMINAL (WHOAMI) ████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <g font-family="monospace">`❯ ./whoami.sh --verbose --hall-of-fame`</g>
+### <g font-family="monospace">`❯ ./whoami.sh --verbose`</g>
 
 <div align="center">
 
@@ -49,10 +49,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ██████████████ HALL OF FAME & RECOGNITIONS █████████████████ -->
+<!-- ████████████ SECURITY DISCLOSURES & ACKNOWLEDGEMENTS ██████████ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-### <g font-family="monospace">`❯ ./wall-of-fame --list-bounties`</g>
+### <g font-family="monospace">`❯ ./vulnerability_disclosures --log`</g>
 
 <div align="center">
 
@@ -60,18 +60,104 @@
   <tr>
     <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #00ff9d; border-radius:8px; padding:15px;">
       <h3 align="center"><font color="#00ff9d">🤖 Google Android VRP</font></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Google-Vulnerability_Reward-00ff9d?style=flat-square&logo=android&logoColor=030712"/></p>
-      <p align="center"><i>Acknowledged in Google Android Vulnerability Reward Program for reporting critical OS-level security flaws.</i></p>
+      <p align="center"><img src="https://img.shields.io/badge/Google-Android_VRP-00ff9d?style=flat-square&logo=android&logoColor=030712"/></p>
+      <p align="center"><i>Vulnerability research &amp; security disclosures acknowledged under the Google Android VRP.</i></p>
     </td>
     <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #7000ff; border-radius:8px; padding:15px;">
       <h3 align="center"><font color="#b066ff">👁️ NVIDIA PSIRT</font></h3>
-      <p align="center"><img src="https://img.shields.io/badge/NVIDIA-Product_Security-7000ff?style=flat-square&logo=nvidia&logoColor=ffffff"/></p>
-      <p align="center"><i>Honored by NVIDIA Product Security Incident Response Team for responsible vulnerability disclosures.</i></p>
+      <p align="center"><img src="https://img.shields.io/badge/NVIDIA-PSIRT-7000ff?style=flat-square&logo=nvidia&logoColor=ffffff"/></p>
+      <p align="center"><i>Acknowledged by NVIDIA Product Security Incident Response Team for responsible vulnerability reporting.</i></p>
     </td>
     <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #00f0ff; border-radius:8px; padding:15px;">
-      <h3 align="center"><font color="#00f0ff">🇮🇳 CERT-In Honored</font></h3>
-      <p align="center"><img src="https://img.shields.io/badge/CERT--In-Government_of_India-00f0ff?style=flat-square&logo=government&logoColor=030712"/></p>
-      <p align="center"><i>Recognized by the Indian Computer Emergency Response Team (CERT-In) for national cyber defense contributions.</i></p>
+      <h3 align="center"><font color="#00f0ff">🇮🇳 CERT-In Acknowledgements</font></h3>
+      <p align="center"><img src="https://img.shields.io/badge/CERT--In-India-00f0ff?style=flat-square&logo=government&logoColor=030712"/></p>
+      <p align="center"><i>Responsible vulnerability disclosures acknowledged by the Indian Computer Emergency Response Team.</i></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████ DAILY DRIVER SECURITY LAB SETUP ████████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### <g font-family="monospace">`❯ ./security_lab --environment`</g>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #00f0ff; border-radius:8px; padding:12px;">
+      <h4><font color="#00f0ff">💻 OS &amp; PLATFORM</font></h4>
+      <p>
+        ![Kali Linux](https://img.shields.io/badge/Kali_Linux-030712?style=flat-square&logo=kali-linux&logoColor=00f0ff)<br/>
+        ![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-030712?style=flat-square&logo=ubuntu&logoColor=00f0ff)<br/>
+        ![macOS](https://img.shields.io/badge/macOS-030712?style=flat-square&logo=apple&logoColor=00f0ff)
+      </p>
+    </td>
+    <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #00ff9d; border-radius:8px; padding:12px;">
+      <h4><font color="#00ff9d">🐚 SHELL &amp; CLI</font></h4>
+      <p>
+        ![Zsh](https://img.shields.io/badge/Zsh_Shell-030712?style=flat-square&logo=gnu-bash&logoColor=00ff9d)<br/>
+        ![Tmux](https://img.shields.io/badge/Tmux-030712?style=flat-square&logo=tmux&logoColor=00ff9d)<br/>
+        ![Neovim](https://img.shields.io/badge/Neovim-030712?style=flat-square&logo=neovim&logoColor=00ff9d)
+      </p>
+    </td>
+    <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #a855f7; border-radius:8px; padding:12px;">
+      <h4><font color="#a855f7">🛠️ PRIMARY TOOLS</font></h4>
+      <p>
+        ![Burp Suite](https://img.shields.io/badge/Burp_Suite-030712?style=flat-square&logo=burp-suite&logoColor=a855f7)<br/>
+        ![Wireshark](https://img.shields.io/badge/Wireshark-030712?style=flat-square&logo=wireshark&logoColor=a855f7)<br/>
+        ![Splunk](https://img.shields.io/badge/Splunk_SIEM-030712?style=flat-square&logo=splunk&logoColor=a855f7)
+      </p>
+    </td>
+    <td width="25%" align="center" valign="top" style="background:#0b1329; border:1px solid #f59e0b; border-radius:8px; padding:12px;">
+      <h4><font color="#f59e0b">☁️ VIRTUAL LAB</font></h4>
+      <p>
+        ![Docker](https://img.shields.io/badge/Docker-030712?style=flat-square&logo=docker&logoColor=f59e0b)<br/>
+        ![VMware](https://img.shields.io/badge/VMware-030712?style=flat-square&logo=vmware&logoColor=f59e0b)<br/>
+        ![AWS](https://img.shields.io/badge/AWS_Lab-030712?style=flat-square&logo=amazon-aws&logoColor=f59e0b)
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████ ACTIVE RESEARCH & LEARNING ROADMAP ██████████████ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### <g font-family="monospace">`❯ ./current_focus --roadmap`</g>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #00f0ff; border-radius:8px; padding:15px;">
+      <h4 align="center"><font color="#00f0ff">🎯 Detection Engineering</font></h4>
+      <p align="center">Authoring custom YARA rules, Sigma detection patterns, and optimizing SIEM alert correlation matrices.</p>
+    </td>
+    <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #00ff9d; border-radius:8px; padding:15px;">
+      <h4 align="center"><font color="#00ff9d">☁️ Cloud Security (AWS/Azure)</font></h4>
+      <p align="center">Auditing cloud IAM policies, container security posture, and serverless threat vectors.</p>
+    </td>
+    <td width="33%" align="center" valign="top" style="background:#090d16; border:1px solid #a855f7; border-radius:8px; padding:15px;">
+      <h4 align="center"><font color="#a855f7">🐍 Security Automation</font></h4>
+      <p align="center">Developing custom Python scripts for threat intelligence scraping, log parsing, and recon pipelines.</p>
     </td>
   </tr>
 </table>
@@ -160,19 +246,19 @@
 <summary><b>🛡️ Security Operations Center (SOC) &amp; Incident Response Playbooks</b> <i>(Click to Expand)</i></summary>
 <br/>
 
-- **Threat Detection &amp; Triage**: Specialized in analyzing SIEM alerts (Splunk ES & Sentinel), correlating multi-vector log sources, and filtering false positives.
-- **Incident Response Lifecycle**: Experienced in containment, eradication, and root-cause post-mortem analysis adhering to NIST SP 800-61.
-- **Threat Hunting**: Proactive hunting using IOCs, YARA rules, and anomaly detection across network traffic and endpoint telemetry.
+- **Threat Detection &amp; Triage**: Analyzing SIEM alerts (Splunk ES & Sentinel), correlating log sources, and identifying threat indicators.
+- **Incident Response**: Containment, triage, and root-cause post-mortem analysis adhering to NIST guidelines.
+- **Threat Hunting**: Proactive hunting using IOCs, YARA rules, and anomaly detection across network traffic.
 
 </details>
 
 <details>
-<summary><b>⚔️ Penetration Testing (VAPT) &amp; Bug Bounty Methodology</b> <i>(Click to Expand)</i></summary>
+<summary><b>⚔️ Penetration Testing (VAPT) &amp; Vulnerability Assessment</b> <i>(Click to Expand)</i></summary>
 <br/>
 
-- **Reconnaissance &amp; OSINT**: Deep attack surface mapping using Amass, Nmap, Sublist3r, and Google Dorking.
-- **Vulnerability Assessment**: Deep dive into OWASP Top 10 vulnerabilities (SQLi, XSS, SSRF, IDOR, Business Logic Flaws).
-- **Exploitation &amp; Reporting**: Authoring structured remediation advisory reports for developers & executive leadership.
+- **Reconnaissance &amp; OSINT**: Attack surface mapping using Amass, Nmap, Sublist3r, and Google Dorking.
+- **Vulnerability Assessment**: Testing for OWASP Top 10 vulnerabilities (SQLi, XSS, SSRF, IDOR, Logic Flaws).
+- **Remediation &amp; Reporting**: Writing clear, actionable vulnerability disclosure reports with remediation guidance.
 
 </details>
 
