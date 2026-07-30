@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" style="background:#030712; border-radius:10px;">
+  <defs>
+    <!-- Bar Gradients -->
+    <linearGradient id="cyanBlueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <linearGradient id="emeraldTealGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+
+    <linearGradient id="purpleVioletGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <linearGradient id="amberRoseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+
+    <filter id="barGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="960" height="440" rx="10" fill="#030712" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Card Title Header -->
+  <text x="480" y="38" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="900" fill="#00f0ff" letter-spacing="3" filter="url(#barGlow)">
+    ⚡ CYBERSECURITY PROFICIENCY &amp; METRICS
+  </text>
+  <line x1="100" y1="52" x2="860" y2="52" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Skill Bars Container -->
+  <g transform="translate(40, 75)" font-family="'JetBrains Mono', monospace">
+
+    <!-- SKILL 1: SOC & BLUE TEAM -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="16" font-size="13" font-weight="bold" fill="#f8fafc">🛡️ SOC &amp; BLUE TEAM OPERATIONS</text>
+      <text x="880" y="16" text-anchor="end" font-size="13" font-weight="bold" fill="#00f0ff">95%</text>
+      <!-- Track -->
+      <rect x="0" y="26" width="880" height="16" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <!-- Animated Fill -->
+      <rect x="0" y="26" width="0" height="16" rx="8" fill="url(#cyanBlueGrad)" filter="url(#barGlow)">
+        <animate attributeName="width" from="0" to="836" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+      <text x="12" y="38" font-size="9" font-weight="bold" fill="#030712">Splunk · Microsoft Sentinel · Incident Response · Threat Hunting · SIEM Tuning</text>
+    </g>
+
+    <!-- SKILL 2: RED TEAM & VAPT -->
+    <g transform="translate(0, 65)">
+      <text x="0" y="16" font-size="13" font-weight="bold" fill="#f8fafc">⚔️ RED TEAM &amp; VAPT (PENETRATION TESTING)</text>
+      <text x="880" y="16" text-anchor="end" font-size="13" font-weight="bold" fill="#00ff9d">90%</text>
+      <rect x="0" y="26" width="880" height="16" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="26" width="0" height="16" rx="8" fill="url(#emeraldTealGrad)" filter="url(#barGlow)">
+        <animate attributeName="width" from="0" to="792" dur="2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+      <text x="12" y="38" font-size="9" font-weight="bold" fill="#030712">Burp Suite Pro · OWASP Top 10 · Network Pentest · Bug Bounty · Exploit Analysis</text>
+    </g>
+
+    <!-- SKILL 3: DEVSECOPS & AUTOMATION -->
+    <g transform="translate(0, 130)">
+      <text x="0" y="16" font-size="13" font-weight="bold" fill="#f8fafc">⚙️ DEVSECOPS &amp; SECURITY ENGINEERING</text>
+      <text x="880" y="16" text-anchor="end" font-size="13" font-weight="bold" fill="#a855f7">85%</text>
+      <rect x="0" y="26" width="880" height="16" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="26" width="0" height="16" rx="8" fill="url(#purpleVioletGrad)" filter="url(#barGlow)">
+        <animate attributeName="width" from="0" to="748" dur="2.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+      <text x="12" y="38" font-size="9" font-weight="bold" fill="#030712">Python · Bash Scripting · Linux Hardening · Docker Security · Git Automation</text>
+    </g>
+
+    <!-- SKILL 4: THREAT INTEL & FORENSICS -->
+    <g transform="translate(0, 195)">
+      <text x="0" y="16" font-size="13" font-weight="bold" fill="#f8fafc">🧠 CYBER THREAT INTEL &amp; FORENSICS</text>
+      <text x="880" y="16" text-anchor="end" font-size="13" font-weight="bold" fill="#f59e0b">92%</text>
+      <rect x="0" y="26" width="880" height="16" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+      <rect x="0" y="26" width="0" height="16" rx="8" fill="url(#amberRoseGrad)" filter="url(#barGlow)">
+        <animate attributeName="width" from="0" to="809" dur="2.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+      <text x="12" y="38" font-size="9" font-weight="bold" fill="#030712">MITRE ATT&amp;CK Mapping · CTI Analysis · YARA Rules · OSINT · Volatility</text>
+    </g>
+  </g>
+
+  <!-- BOTTOM METRIC COUNTER CARDS -->
+  <g transform="translate(40, 335)" font-family="'JetBrains Mono', monospace">
+    <!-- Card 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="205" height="75" rx="8" fill="#0b1329" stroke="#00f0ff" stroke-width="0.8"/>
+      <text x="102" y="32" text-anchor="middle" font-size="22" font-weight="900" fill="#00f0ff" filter="url(#barGlow)">500+</text>
+      <text x="102" y="54" text-anchor="middle" font-size="10" fill="#94a3b8">Incidents Handled</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(225, 0)">
+      <rect width="205" height="75" rx="8" fill="#0b1329" stroke="#00ff9d" stroke-width="0.8"/>
+      <text x="102" y="32" text-anchor="middle" font-size="22" font-weight="900" fill="#00ff9d" filter="url(#barGlow)">25+</text>
+      <text x="102" y="54" text-anchor="middle" font-size="10" fill="#94a3b8">Security Reports</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(450, 0)">
+      <rect width="205" height="75" rx="8" fill="#0b1329" stroke="#a855f7" stroke-width="0.8"/>
+      <text x="102" y="32" text-anchor="middle" font-size="22" font-weight="900" fill="#a855f7" filter="url(#barGlow)">3 TOP</text>
+      <text x="102" y="54" text-anchor="middle" font-size="10" fill="#94a3b8">Global Hall of Fames</text>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(675, 0)">
+      <rect width="205" height="75" rx="8" fill="#0b1329" stroke="#f59e0b" stroke-width="0.8"/>
+      <text x="102" y="32" text-anchor="middle" font-size="22" font-weight="900" fill="#f59e0b" filter="url(#barGlow)">TOP 1%</text>
+      <text x="102" y="54" text-anchor="middle" font-size="10" fill="#94a3b8">TryHackMe Defense</text>
+    </g>
+  </g>
+</svg>
